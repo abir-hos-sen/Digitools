@@ -45,7 +45,7 @@ Digitools is a cutting-edge e-commerce platform built with **React** and **Tailw
 - **Tagging System**: Highlighting "Popular", "Best Seller", and "New" products.
 - **Detailed Product Info**: Every tool comes with a feature list and specific descriptions.
 
----
+---Live link : https://assignment-06-pink.vercel.app
 
 ## 🚀 Tech Stack
 
